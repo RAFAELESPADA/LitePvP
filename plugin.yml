@@ -1,0 +1,126 @@
+name: LitePvP
+main: me.rafael.litepvp.Main
+version: 5.0
+author: zEnderX5_ , Rafael Auler
+description: Plugin de KitPvP criado por Rafael Auler.
+website: http://bit.ly/2kC345B , http://bit.ly/2j5qvnM
+
+commands:
+   
+   darxp:
+   chat:
+   removexp:
+   kitsfps:
+   s:
+   tp:
+   sudo:
+   consolesudo:
+   pvp:
+   setarena:
+   kangaroo:
+   fpvp:
+   farcher:
+   fkangaroo:
+   fquickdropper:
+   fresouper:
+   camel:
+   ffisherman:
+   fviper:
+   fsnail:
+   fswitcher:
+   fsonic:
+   gladiator:
+   kits:
+   infernor:
+   grappler:
+   sonic:
+   deshfire:
+   warps:
+   monk:
+   stomper:
+   switcher:
+   ninja:
+   setwarp:
+   build:
+   tag:
+   admin:
+   fly:
+   setspawn:
+   spawn:
+   warp:
+   gm:
+   ping:
+   morrer:
+   coins:
+   
+   
+   
+   
+   lojadeperms:
+   abrirloja:
+   
+   autosoup:
+   head:
+   aplicar:
+   fisherman:
+   tpall:
+   doublejump:
+   anchor:
+   barbarian:
+   extras:
+   info2:
+   testclick:
+   darkit:
+   quickdropper:
+   goku:
+   eventos:
+   timelord:
+   avatar:
+   mostrarmenu:
+   information:
+   kills:
+   rank:
+   clicktest:
+   voidchallenge:
+   treinos:
+   gun:
+   archer:
+   viper:
+   snail:
+   vip:
+   forcefield:
+   confuser:
+   viking:
+   naruto:
+   gaara:
+   hulk:
+   kitpvp:
+   reverse:
+   reaper:
+   resouper:
+   1v1:
+   set1v1:
+   eventos:
+   youtuber:
+   poseidon:
+   indio:
+   jumper:
+   status:
+   pyro:
+   thor:
+   allkits:
+   report:
+   aviso:
+   magma:
+   tell:
+   site:
+   ultimate:
+   rain:
+   togglepvp:
+   skit:
+   youtuber:
+   invsee:
+   removexp:
+   sc:
+   pyro:
+   

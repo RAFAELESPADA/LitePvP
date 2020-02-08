@@ -1,0 +1,56 @@
+#Bem vindo a config do meu novo plugin KomboPvP V4
+#Essa e a nova versao do kombo que funciona na 1.8
+#Se inscrevam no meu canal e deem like no video do plugin
+
+#Criado por zEnderX5_ , Rafael Auler
+
+
+
+#Sound list: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
+Sound:
+  ErrorMessage: 'ARROW_HIT' 
+  SucefullMessage: 'ORB_PICKUP'
+  NoPermissionMessage: 'WITHER_SHOOT'
+
+#Tanto de coins ganhadas por kill
+Earned-Coins-Per-Kill: '100'
+#Tanto de coins perdida por morte
+Lost-Coins-Per-Death: '50'
+
+#Configure algumas mensagens do plugin aqui
+Prefix: '&c&l[&6&lLite&f&lPvP&c&l]'
+ScoreTitle: '&6&lLite&f&lPvP'
+Loja: '&bSuaLoja.Com'
+YTMSG1: '&eRequisitos para ser &b&lYT'
+YTMSG2: '&b&lYT: &f500 subs + bom feed + video'
+YTMSG3: '&e&lSemiYT: &f200 subs + bom feed + video'
+YTMSG4: '&e&lGRAVADOR: &f100 subs + bom feed + video'
+YTMSG5: '&3&lYT+: &fJa ter tag yt e a confianca do dono'
+YTMSG6: '&fCaso voce tenha os requisitos peca sua tag no &bTwitter'
+YTMSG7: '&b&lTwitter: &fSeuTwitter.com'
+YTMSG8: '&a&lMuito Obrigado'
+
+NoSpam: '&cPor favor fale mais devagar'
+Formulario: '&bEm breve'
+Dono: '&ezEnderX5_'
+Msg1: '&fObrigado por jogar no servidor!'
+Msg2: '&fNao utilize hacks'
+Msg3: '&fAchou um hack? Use /report <nick> <motivo>'
+Msg4: '&fPlugin criado por zEnderX5_ (Rafael Auler)'
+Msg5: '&fQualquer duvida chame um staff no tell'
+Msg6: '&fDigite /youtuber para ver os req de yt'
+Msg7: '&fDigite /vip para ver as vantagens de ser vip'
+Msg8: '&fDigite /rank info para ver os ranks'
+Msg9: '&fVips nao possuem cooldown de placas'
+Msg10: '&fA Warp FPS do servidor possui kits!'
+SendIPAddressData: true
+
+#Motd do servidor
+MotdLine1: '&6&lLite&f&lPvP &fVenha Treinar &b(1.8.X)'
+MotdLine2: '&b&lWebsite: &fhttp://bit.ly/2kC345B'
+
+#Status e salvo aqui
+a:
+  komboo1:
+    k: 9
+    d: 3
